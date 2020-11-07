@@ -67,5 +67,17 @@ textarea{
 
 .saveBtn i:hover {
   font-size: 20px;
-  transition: all .3s ease-in-out;
+  transition: all .1s ease-in-out;
+}
+
+.timeSlot {
+  background-color: pink;
+  padding: 15px;
+  font-weight: bold;
+  border-left: solid black;
+  border-top: 1px solid black;
+}
+
+.col-10 {
+  border-top: 1px solid black;
 }
